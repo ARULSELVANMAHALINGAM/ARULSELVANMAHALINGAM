@@ -6,7 +6,7 @@
 
 📍 Tamil Nadu, India | 🎓 CGPA: 7.7
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arulselvanmahalingam/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arulselvanmahalingam/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ARULSELVANMAHALINGAM)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arulselvanmahalingam@gmail.com)
 
@@ -86,8 +86,8 @@ I'm a passionate **Final Year CSE student** with a strong interest in building s
 
 I'm always interested in collaborating on exciting projects, discussing new technologies, or exploring opportunities in software development. Feel free to reach out!
 
-- 📧 **Email**: your-email@example.com
-- 💼 **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com)
+- 📧 **Email**: arulselvanmahalingam@gmail.com
+- 💼 **LinkedIn**: [[linkedin.com/in/your-profile](https://www.linkedin.com/in/arulselvanmahalingam/)]
 - 🐙 **GitHub**: [@ARULSELVANMAHALINGAM](https://github.com/ARULSELVANMAHALINGAM)
 
 ---

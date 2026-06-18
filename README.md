@@ -87,7 +87,7 @@ I'm a passionate **Final Year CSE student** with a strong interest in building s
 I'm always interested in collaborating on exciting projects, discussing new technologies, or exploring opportunities in software development. Feel free to reach out!
 
 - 📧 **Email**: arulselvanmahalingam@gmail.com
-- 💼 **LinkedIn**: [[linkedin.com/in/your-profile](https://www.linkedin.com/in/arulselvanmahalingam/)]
+- 💼 **LinkedIn**: [linkedin.com/in/your-profile](https://www.linkedin.com/in/arulselvanmahalingam/)
 - 🐙 **GitHub**: [@ARULSELVANMAHALINGAM](https://github.com/ARULSELVANMAHALINGAM)
 
 ---
